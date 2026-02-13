@@ -1,9 +1,8 @@
 <div class="about-me" align="center">
 <h1>Adam Brodin <img src="https://komarev.com/ghpvc/?username=adambrodin&label=Profile%20views&color=0e75b6&style=flat" alt="adambrodin"> </h1>
-<p>23 years old from Sweden</p>
+<p>24 years old from Sweden</p>
 <div class="stat-cards" align="center">
   
-![Adam Brodin](https://github-readme-stats.vercel.app/api?username=AdamBrodin&show_icons=true&theme=tokyonight)
 </div>
 <div class="technologies" align="center">
 <h2>Technologies</h2>
